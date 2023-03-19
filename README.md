@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/P1z4KSc/Banner-Electr-nica-y-Tecnolog-a-Exhibici-n-Moderno-Retractable-Azul-y-Rosa.png" alt="Banner-Electr-nica-y-Tecnolog-a-Exhibici-n-Moderno-Retractable-Azul-y-Rosa" border="0" />
+  <img src="https://i.ibb.co/P1z4KSc/Banner-Electr-nica-y-Tecnolog-a-Exhibici-n-Moderno-Retractable-Azul-y-Rosa.png" alt="Banner-Electr-nica-y-Tecnolog-a-Exhibici-n-Moderno-Retractable-Azul-y-Rosa" border="0" width="100" />
 </p>
 
 <picture>
