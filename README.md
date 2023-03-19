@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://i.ibb.co/P1z4KSc/Banner-Electr-nica-y-Tecnolog-a-Exhibici-n-Moderno-Retractable-Azul-y-Rosa.png" alt="Banner-Electr-nica-y-Tecnolog-a-Exhibici-n-Moderno-Retractable-Azul-y-Rosa" width="100%" />
+ 
 </p>
+
+ <img src="https://i.ibb.co/P1z4KSc/Banner-Electr-nica-y-Tecnolog-a-Exhibici-n-Moderno-Retractable-Azul-y-Rosa.png" alt="Banner-Electr-nica-y-Tecnolog-a-Exhibici-n-Moderno-Retractable-Azul-y-Rosa"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tarampampam&show_icons=true&hide_border=true&layout=compactdark&hide_rank=true&include_all_commits=true&theme=chartreuse-dark&bg_color=00000000">
