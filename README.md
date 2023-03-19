@@ -1,16 +1,6 @@
 ### Hi there 👋
 
- <img align="center" src="https://raw.githubusercontent.com/singaragonzales/singaragonzales/main/Banner.png" alt="Banner-Profile"/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=tarampampam&show_icons=true&hide_border=true&layout=compactdark&hide_rank=true&include_all_commits=true&theme=chartreuse-dark&bg_color=00000000">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tarampampam&show_icons=true&hide_border=true&layout=compact&hide_rank=true&include_all_commits=true&theme=default&bg_color=00000000">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=tarampampam&exclude_repo=laravel-roadrunner-in-docker&layout=compact&hide_border=true&langs_count=8&theme=chartreuse-dark&bg_color=00000000">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarampampam&exclude_repo=laravel-roadrunner-in-docker&layout=compact&hide_border=true&langs_count=8&theme=default&bg_color=00000000">
-</picture>
+<img align="center" src="https://raw.githubusercontent.com/singaragonzales/singaragonzales/main/Banner.png" alt="Banner-Profile"/>
 
 <br clear="both"/>
 
