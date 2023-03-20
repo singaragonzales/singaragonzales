@@ -1,20 +1,52 @@
-### Hi there 👋
+<h1 align='center'> 👋🌎 </h1>
 
 <img align="center" src="https://raw.githubusercontent.com/singaragonzales/singaragonzales/main/Banner.png" alt="Banner-Profile"/>
 
 <br clear="both"/>
 
-<!--
-**singaragonzales/singaragonzales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋, my name is Singara Gonzales and I'm a software developer with +5 years of experience working on multiple proyects for banking, retail and food infustries.
 
-Here are some ideas to get you started:
+- 🌎 Based on Lima, Perú 
+- 🖥️ I’m currently learning: <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+- ❤️ Fun fact: I spent most of my time reading books and watching anime.
+- You can see my portfolio 👉<a href="https://singaragonzales.github.io" target="_blank" rel="noreferrer">HERE</a>👈
+ 
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills 🚀
+
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singaragonzales&theme=dracula" />&nbsp;&nbsp;
+  <p align='left'>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/sass%20-%23cc6699.svg?&style=for-the-badge&logo=sass&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;
+  </p>
+
+
+<br>
+<hr>
+
+### Contact me 📩
+
+<p align='left'>
+  <a href="https://www.linkedin.com/in/singara-gonzales-ojeda-174256213/?locale=en_US" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Singara-Gonzales-Linkedin"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:singara.gonzales@gmail.com?subject=Olá%20Stefany" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Singara-Gonzales-Gmail"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.upwork.com/freelancers/~013ae06c4e2c1444f7" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white" alt="Singara-Gonzales-Upwork"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
