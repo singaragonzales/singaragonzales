@@ -12,7 +12,7 @@
 <br>
 <br>
  
-- <samp>🌎 Based on <b>Lima, Perú</b></samp>
+- <samp>🏡 Based on <b>Lima, Perú</b></samp>
 - <samp>🖥️ I’m currently learning: <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /></samp>
 - <samp>You can see my portfolio 👉<a href="https://singaragonzales.github.io" target="_blank" rel="noreferrer">HERE</a>👈</samp>
 - <samp>❤️ Fun fact: I spent most of my time reading books and watching anime.</samp>
