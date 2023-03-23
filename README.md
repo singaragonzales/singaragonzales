@@ -4,9 +4,9 @@
 
 ### About me 👩🏾‍💻
 <samp>
-  Hi there 👋, my name is Singara Gonzales and I'm a software developer with +5 years of experience working on multiple proyects for banking, retail and food  industries specialized in MERN and MEAN technologies.
+  Hi there 👋, my name is Singara Gonzales and I'm a software developer with +5 years of experience working on multiple projects for banking, retail, and food industries. I'm specialized in MERN and MEAN technologies.
   <br><br>
-  I love what I do I like to learn about new technologies and apply them in different projects that are innovative and provide a better user experience.Also I consider myself a proactive and collaborative person who likes to work as a team to exchange ideas and knowledge that contribute to the success of the project.
+  I love what I do, and I like to learn about new technologies and apply them in different projects that are innovative and provide a better user experience. Also, I consider myself a proactive and collaborative person who likes to work in a team to exchange ideas and knowledge that contribute to the project's success.
 </samp>
  
 <br>
