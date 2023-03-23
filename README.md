@@ -31,7 +31,7 @@
 
 ### Skills 🚀
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singaragonzales&theme=dracula" />&nbsp;&nbsp;
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=singaragonzales&theme=tokyonight" />&nbsp;&nbsp;
 <p align='left'>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;
